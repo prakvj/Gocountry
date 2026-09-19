@@ -2,3 +2,7 @@ Asia
 india
 pakistan
 china
+australia
+newzealand
+france
+
